@@ -1,0 +1,10 @@
+@import './blocks/header';
+
+
+$color:rgb(29, 129, 29);
+
+body {
+	color: $color;
+	display: flex;
+	transition: all 0.2s ease-in;
+}
